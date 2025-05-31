@@ -12,5 +12,10 @@ setup(
         "scikit-learn",
         "mlflow",
         "urllib3<2",
+        "black",
+        "isort",
+        "scikit-learn",
+        "shap",
+        "matplotlib",
     ],
 )
